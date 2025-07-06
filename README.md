@@ -5,4 +5,5 @@ This repo contains documents about the problems I have faced.
 
 # داکیومنت های فارسی :
 ###### - Bypassing CGNAT with Cloudflare Tunnel
+###### - types of tokens
 
